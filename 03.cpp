@@ -9,9 +9,12 @@ int main()
 
     initGL(window);
     glViewport(0,0,640,480);
-    GLuint program = loadProgram("shader/01.vert","shader/01.frag");
-    GLuint vao = createVAO(generatePlane());
+    GLuint program = loadProgram("shader/03.vert","shader/03.frag");
+    GLuint vao = createVAO(generatePlane_2DLighting());
     GLuint texture = createTexture2D("resources/1.jpg");
+
+    GLint uniform_angle = getUniformLocation(program,"u_angle");
+    sf::Clock clock;
 
     sf::Event event;
     while (window.isOpen())
@@ -31,9 +34,10 @@ int main()
 
         glClear(GL_COLOR_BUFFER_BIT);
         glUseProgram(program);
+        glUniform1f(uniform_angle,glm::radians(clock.getElapsedTime().asSeconds() * 30.0f));
         glBindVertexArray(vao);
         glBindTexture(GL_TEXTURE_2D,texture);
-        glDrawArrays(GL_TRIANGLES,0,6);
+        glDrawArrays(GL_TRIANGLES,0,12);
         glBindVertexArray(0);
         window.display();
     }
