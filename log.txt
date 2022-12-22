@@ -1,0 +1,182 @@
+GL initialized successfully
+Shader compiled successfully
+Shader compiled successfully
+Program link succeeded
+Glyph:'0' loaded successfully
+Glyph:'1' loaded successfully
+Glyph:'2' loaded successfully
+Glyph:'3' loaded successfully
+Glyph:'4' loaded successfully
+Glyph:'5' loaded successfully
+Glyph:'6' loaded successfully
+Glyph:'7' loaded successfully
+Glyph:'8' loaded successfully
+Glyph:'9' loaded successfully
+Glyph:'10' loaded successfully
+Glyph:'11' loaded successfully
+Glyph:'12' loaded successfully
+Glyph:'13' loaded successfully
+Glyph:'14' loaded successfully
+Glyph:'15' loaded successfully
+Glyph:'16' loaded successfully
+Glyph:'17' loaded successfully
+Glyph:'18' loaded successfully
+Glyph:'19' loaded successfully
+Glyph:'20' loaded successfully
+Glyph:'21' loaded successfully
+Glyph:'22' loaded successfully
+Glyph:'23' loaded successfully
+Glyph:'24' loaded successfully
+Glyph:'25' loaded successfully
+Glyph:'26' loaded successfully
+Glyph:'27' loaded successfully
+Glyph:'28' loaded successfully
+Glyph:'29' loaded successfully
+Glyph:'30' loaded successfully
+Glyph:'31' loaded successfully
+Glyph:'32' loaded successfully
+Glyph:'33' loaded successfully
+Glyph:'34' loaded successfully
+Glyph:'35' loaded successfully
+Glyph:'36' loaded successfully
+Glyph:'37' loaded successfully
+Glyph:'38' loaded successfully
+Glyph:'39' loaded successfully
+Glyph:'40' loaded successfully
+Glyph:'41' loaded successfully
+Glyph:'42' loaded successfully
+Glyph:'43' loaded successfully
+Glyph:'44' loaded successfully
+Glyph:'45' loaded successfully
+Glyph:'46' loaded successfully
+Glyph:'47' loaded successfully
+Glyph:'48' loaded successfully
+Glyph:'49' loaded successfully
+Glyph:'50' loaded successfully
+Glyph:'51' loaded successfully
+Glyph:'52' loaded successfully
+Glyph:'53' loaded successfully
+Glyph:'54' loaded successfully
+Glyph:'55' loaded successfully
+Glyph:'56' loaded successfully
+Glyph:'57' loaded successfully
+Glyph:'58' loaded successfully
+Glyph:'59' loaded successfully
+Glyph:'60' loaded successfully
+Glyph:'61' loaded successfully
+Glyph:'62' loaded successfully
+Glyph:'63' loaded successfully
+Glyph:'64' loaded successfully
+Glyph:'65' loaded successfully
+Glyph:'66' loaded successfully
+Glyph:'67' loaded successfully
+Glyph:'68' loaded successfully
+Glyph:'69' loaded successfully
+Glyph:'70' loaded successfully
+Glyph:'71' loaded successfully
+Glyph:'72' loaded successfully
+Glyph:'73' loaded successfully
+Glyph:'74' loaded successfully
+Glyph:'75' loaded successfully
+Glyph:'76' loaded successfully
+Glyph:'77' loaded successfully
+Glyph:'78' loaded successfully
+Glyph:'79' loaded successfully
+Glyph:'80' loaded successfully
+Glyph:'81' loaded successfully
+Glyph:'82' loaded successfully
+Glyph:'83' loaded successfully
+Glyph:'84' loaded successfully
+Glyph:'85' loaded successfully
+Glyph:'86' loaded successfully
+Glyph:'87' loaded successfully
+Glyph:'88' loaded successfully
+Glyph:'89' loaded successfully
+Glyph:'90' loaded successfully
+Glyph:'91' loaded successfully
+Glyph:'92' loaded successfully
+Glyph:'93' loaded successfully
+Glyph:'94' loaded successfully
+Glyph:'95' loaded successfully
+Glyph:'96' loaded successfully
+Glyph:'97' loaded successfully
+Glyph:'98' loaded successfully
+Glyph:'99' loaded successfully
+Glyph:'100' loaded successfully
+Glyph:'101' loaded successfully
+Glyph:'102' loaded successfully
+Glyph:'103' loaded successfully
+Glyph:'104' loaded successfully
+Glyph:'105' loaded successfully
+Glyph:'106' loaded successfully
+Glyph:'107' loaded successfully
+Glyph:'108' loaded successfully
+Glyph:'109' loaded successfully
+Glyph:'110' loaded successfully
+Glyph:'111' loaded successfully
+Glyph:'112' loaded successfully
+Glyph:'113' loaded successfully
+Glyph:'114' loaded successfully
+Glyph:'115' loaded successfully
+Glyph:'116' loaded successfully
+Glyph:'117' loaded successfully
+Glyph:'118' loaded successfully
+Glyph:'119' loaded successfully
+Glyph:'120' loaded successfully
+Glyph:'121' loaded successfully
+Glyph:'122' loaded successfully
+Glyph:'123' loaded successfully
+Glyph:'124' loaded successfully
+Glyph:'125' loaded successfully
+Glyph:'126' loaded successfully
+Glyph:'127' loaded successfully
+str:b
+str:be
+str:bea
+str:be
+str:bec
+str:beca
+str:becau
+str:becaus
+str:becaust
+str:becaus
+str:because
+str:because 
+str:because o
+str:because of
+str:because of 
+str:because of t
+str:because of th
+str:because of thi
+str:because of this
+str:because of this
+str:because of thisw
+str:because of thiswa
+str:because of thiswas
+str:because of thiswast
+str:because of thiswaste
+str:because of thiswaste 
+str:because of thiswaste i
+str:because of thiswaste i 
+str:because of thiswaste i a
+str:because of thiswaste i al
+str:because of thiswaste i all
+str:because of thiswaste i all 
+str:because of thiswaste i all m
+str:because of thiswaste i all mo
+str:because of thiswaste i all mor
+str:because of thiswaste i all mori
+str:because of thiswaste i all mor
+str:because of thiswaste i all morn
+str:because of thiswaste i all morni
+str:because of thiswaste i all mornin
+str:because of thiswaste i all morning
+str:because of thiswaste i all morning
+str:because of thiswaste i all morningn
+str:because of thiswaste i all morningno
+str:because of thiswaste i all morningnot
+str:because of thiswaste i all morningnot 
+str:because of thiswaste i all morningnot g
+str:because of thiswaste i all morningnot go
+str:because of thiswaste i all morningnot goo
+str:because of thiswaste i all morningnot good
